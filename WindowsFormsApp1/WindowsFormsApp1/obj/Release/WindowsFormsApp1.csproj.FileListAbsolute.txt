@@ -1,0 +1,10 @@
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+G:\BS\Phil Humphries\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
