@@ -46,7 +46,7 @@ namespace WindowsFormsApp1
 
         private void pressMe_MouseMove(object sender, MouseEventArgs e)
         {
-            pressMe.BackColor = Color.LightGreen;
+            pressMe.BackColor = Color.Green;
             pressMe.ForeColor = Color.White;
         }
 
